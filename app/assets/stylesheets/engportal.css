@@ -1,0 +1,44 @@
+#container
+{
+	
+margin: 0 auto;
+text-align: left;
+width: 100%;
+	
+}
+
+
+#content
+{
+	
+min-height: 450px;
+margin: 0 auto;
+-webkit-box-sizing: content-box;
+-moz-box-sizing: content-box;
+box-sizing: content-box;
+width: 800px;
+padding: 15px;
+background-color: #fff;
+}
+
+.btn-green {
+color: #ffffff;
+background-color: #27ae60;
+border-color: #27ae60;
+}
+
+.btn-blue {
+color: #ffffff;
+background-color: #2980b9;
+border-color: #2980b9;
+}
+
+.approw{
+	width:100%;
+	margin:20px;
+}
+
+.appinfo{
+	margin:5px;
+}
+
