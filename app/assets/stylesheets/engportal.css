@@ -33,6 +33,13 @@ background-color: #2980b9;
 border-color: #2980b9;
 }
 
+.btn-orange {
+color: #ffffff;
+background-color: #f39c12;
+border-color: #2980b9;
+}
+
+
 .approw{
 	width:100%;
 	margin:20px;
